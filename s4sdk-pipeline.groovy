@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-final def pipelineSdkVersion = 'master'
+final def pipelineSdkVersion = 'fetch-url-proxy'
 
 pipeline {
     agent any
